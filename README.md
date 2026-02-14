@@ -1,4 +1,4 @@
-📌 Selenium Automation Framework – Hybrid (Java)
+📌 **Selenium Automation Framework – Hybrid (Java)**
 📖 Project Overview
 
 This project is a Hybrid Test Automation Framework developed using Selenium WebDriver with Java to automate the Login and Registration functionalities of a web application.
@@ -7,7 +7,7 @@ The framework follows industry best practices including Page Object Model (POM),
 
 A dynamic email generation mechanism using timestamp-based logic is implemented to ensure unique registration during each test execution.
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 Language: Java
 
@@ -27,7 +27,7 @@ Cross Browser Support: Chrome, Edge, FireFox
 
 Version Control: GitHub
 
-🏗 Framework Architecture
+🏗 **Framework Architecture**
 
 This Hybrid Framework combines:
 
@@ -43,7 +43,7 @@ Extent Reports integration
 
 Cross-browser support using WebDriver setup
 
-🔥 Key Features
+🔥 **Key Features**
 
 Automated Login functionality
 
