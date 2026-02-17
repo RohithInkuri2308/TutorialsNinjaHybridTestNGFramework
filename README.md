@@ -1,5 +1,5 @@
 📌 **Selenium Automation Framework – Hybrid (Java)**
-📖** Project Overview**
+📖**Project Overview**
 
 This project is a Hybrid Test Automation Framework developed using Selenium WebDriver with Java to automate the Login and Registration functionalities of a web application.
 
